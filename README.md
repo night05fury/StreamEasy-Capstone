@@ -30,6 +30,9 @@ Key Features:
 - 🗺️ Grouped routes & layouts 
 - 🗃️ MySQL
 - 🚀 Deployment
+![Screenshot 2024-05-07 212820](https://github.com/user-attachments/assets/f2eca3be-a2bf-4cca-919e-d6056302469e)
+![Screenshot 2024-05-09 231028](https://github.com/user-attachments/assets/011188c3-84e3-459d-b677-530243535d15)
+![Screenshot 2024-05-09 231348](https://github.com/user-attachments/assets/bc10fe2f-a1e6-482b-b7f4-cec05c0ed0bf)
 
 ### Prerequisites
 
